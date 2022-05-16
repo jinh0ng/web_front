@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+div {
+  box-sizing: border-box;
+  font-family: "Jua", sans-serif;
+}
+
+.list {
+  text-align: left;
+  padding-left: 20px;
+  border-bottom: 1px solid grey;
+}
+
+.list > button{
+  border-radius: 10px;
+}
+
+.black-nav{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  height: 60px;
+}
+
+.title{
+  text-align: left;
+  vertical-align:middle;
+  font-size: 30px;
+}
